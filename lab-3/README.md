@@ -5,12 +5,12 @@
 ## Lab 3.1 :
 
 ## 1. In previous lab you created the VPC “auto-vpc”, How many routes created for this VPC? Can you delete any of these routes?
-    - answer : we have number of subnet+1 . no, we can not delete any one of them because it is managing by GCP
+    - answer : we have number of subnets + 1 . no, we can not delete any one of them because it is managing by GCP
 ![agent](https://github.com/Badawi02/GCP/blob/main/lab-3/images/3.1.1.0.png)
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 ## 2. In previous lab you created a VPC named “custom-vpc” How many routes created for this VPC?
-    - answer : number of subnet + 1 
+    - answer : number of subnets + 1 
 ![agent](https://github.com/Badawi02/GCP/blob/main/lab-3/images/3.1.2.0.png)
 -----------------------------------------------------------------
 -----------------------------------------------------------------
